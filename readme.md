@@ -1,0 +1,1 @@
+python -m pytest -> uruchamia package pytest jako module in python
